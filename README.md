@@ -1,6 +1,6 @@
 # THN test
 
-check live [here](http://localhost:3000)
+check live [here](https://elisa-thn-test.herokuapp.com/)
 
 ## Run local
 clone this repository
